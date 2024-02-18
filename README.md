@@ -1,9 +1,12 @@
 
 
 <h3 align="center">
-  ### Hi there 👋
+  Hi there 👋 , I am Aditya
 </h3>
 
+- 🌱 I’m currently learning Devops & MERN Stack.
+- 💬 Ask me about ...
+- 📫 How to reach me: adityadesk99@gmail.com
 <!--
 **aditya-repo/aditya-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
