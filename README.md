@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya-raj-473999157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushgarg195" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-raj-473999157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-repo" height="30" width="40" /></a>
+<a href="https://apna.co/aditya-raj-1059" target="blank"><img align="center" src="https://instagram.fpat1-2.fna.fbcdn.net/v/t51.2885-19/97215798_246960029717213_330575248996958208_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fpat1-2.fna.fbcdn.net&_nc_cat=1&_nc_ohc=OwUzEHERttEQ7kNvgFE0PuX&_nc_gid=9325d4ff711547d98f25cf755f32e9d2&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYASs_iDJVgxjdINMt50aUXumSSqOwHh-ajPoRmfduKRXA&oe=67841309&_nc_sid=8b3546" alt="aditya-repo" height="30" width="40" /></a>
+
+  
 <!-- <a href="/https://piyushgarg.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://piyushgarg.dev/rss.xml" height="30" width="40" /></a>
 </p> -->
 
