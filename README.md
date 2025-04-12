@@ -24,9 +24,6 @@ These are the tools I wield with joy:
 - **Databases:** MongoDB · MySQL  
 - **Other Tools:** Node.js · Tailwind CSS · Git · Postman · VS Code
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-repo&layout=compact&langs_count=5&hide=css)
-
 ## ✨ Projects That Matter
 
 - 🎨 **[Portfolio Website](https://adityaraj-dev.vercel.app)**  
@@ -45,6 +42,7 @@ I'm always learning. Always building. And always open to:
 - 💼 Freelance projects  
 - 🚀 Startups looking to move fast and build smart
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-repo&layout=compact&langs_count=8&hide=html)
 
 ## 📬 Let's Connect
 
