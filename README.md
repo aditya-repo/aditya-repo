@@ -6,7 +6,6 @@ Hey there! I'm **Aditya**, a fullstack developer who loves building digital solu
 🛠️ Developer by choice, Creator by passion  
 🚀 From backend logic to frontend finesse, I build complete digital experiences.
 
----
 
 ## 💡 What Drives Me
 
@@ -15,7 +14,6 @@ I'm passionate about **clean logic**, **sleek interfaces**, and performance that
 
 > *“Good software is invisible — until it breaks. Great software is unforgettable.”*
 
----
 
 ## 🔧 My Tech Stack
 
@@ -26,7 +24,7 @@ These are the tools I wield with joy:
 - **Databases:** MongoDB · MySQL  
 - **Other Tools:** Node.js · Tailwind CSS · Git · Postman · VS Code
 
----
+
 
 ## ✨ Projects That Matter
 
@@ -36,7 +34,6 @@ A clean and minimal showcase of some of my hobbies and side work — built with 
 - 💍 **[Wedding Planner](https://weddinplanner2.vercel.app)**  
 A simple yet effective app to plan weddings. It connects vendors and clients through an easy-to-use platform — all from the comfort of your home.
 
----
 
 ## 🧭 What's Next?
 
@@ -47,7 +44,6 @@ I'm always learning. Always building. And always open to:
 - 💼 Freelance projects  
 - 🚀 Startups looking to move fast and build smart
 
----
 
 ## 📬 Let's Connect
 
