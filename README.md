@@ -1,4 +1,4 @@
-# 🧠 Aditya Raj – The Code Alchemist
+# Aditya Raj – The Code Alchemist
 
 Hey there! I'm **Aditya**, a fullstack developer who loves building digital solutions that don’t just work — they *wow*.
 
@@ -21,7 +21,7 @@ I'm passionate about **clean logic**, **sleek interfaces**, and performance that
 
 These are the tools I wield with joy:
 
-- **Languages:** JavaScript · TypeScript · PHP · Python  
+- **Languages:** JavaScript · TypeScript · PHP · Python . Java (basics)
 - **Frameworks:** Next.js · React · Express.js · CodeIgniter  
 - **Databases:** MongoDB · MySQL  
 - **Other Tools:** Node.js · Tailwind CSS · Git · Postman · VS Code
