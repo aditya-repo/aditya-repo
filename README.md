@@ -30,7 +30,7 @@ These are the tools I wield with joy:
 A clean and minimal showcase of some of my hobbies and side work — built with **Next.js**, **Tailwind CSS**, and **TypeScript**.
 
 - 💍 **[Wedding Planner](https://weddinplanner2.vercel.app)**  
-A simple yet effective app to plan weddings. It connects vendors and clients through an easy-to-use platform — all from the comfort of your home.
+A simple yet effective app to plan weddings. It connects vendors and clients through an easy-to-use platform — all from the comfort of your home (inspired by wedmegood.com).
 
 
 ## 🧭 What's Next?
