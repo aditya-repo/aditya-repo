@@ -42,7 +42,7 @@ I'm always learning. Always building. And always open to:
 - 💼 Freelance projects  
 - 🚀 Startups looking to move fast and build smart
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-repo&layout=compact&langs_count=8&hide=html,php)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-repo&layout=compact&langs_count=6&hide=html,php)
 
 ## 📬 Let's Connect
 
