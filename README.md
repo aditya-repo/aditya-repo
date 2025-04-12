@@ -47,8 +47,8 @@ I'm always learning. Always building. And always open to:
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/aditya-raj-473999157/)  
-- 📧 [Email](mailto:adityaraj6220@gmail.com)  
-- 🌐 [Portfolio](https://adityaraj-dev.vercel.app)
+- 📧 [Email](mailto:adityaraj6220@gmail.com) - adityaraj6220@gmail.com
+- 🌐 [Portfolio](https://adityaraj-dev.vercel.app) - adityaraj-dev.vercel.app
 
 > *“Code is poetry. Let’s write something beautiful together.”*
 
