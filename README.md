@@ -24,7 +24,8 @@ These are the tools I wield with joy:
 - **Databases:** MongoDB · MySQL  
 - **Other Tools:** Node.js · Tailwind CSS · Git · Postman · VS Code
 
-
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-repo&layout=compact&langs_count=5&hide=css)
 
 ## ✨ Projects That Matter
 
