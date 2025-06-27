@@ -26,10 +26,10 @@ These are the tools I wield with joy:
 
 ## ✨ Projects That Matter
 
-- 🎨 **[Portfolio Website](https://adityaraj-dev.vercel.app)**  
+- 🎨 **[Portfolio Website](https://adityadesk.com)**  
 A clean and minimal showcase of some of my hobbies and side work — built with **Next.js**, **Tailwind CSS**, and **TypeScript**.
 
-- 💍 **[Wedding Planner](https://weddinplanner2.vercel.app)**  
+- 💍 **[Wedding Planner](https://weddinplanner.adityadesk.com/)**  
 A simple yet effective app to plan weddings. It connects vendors and clients through an easy-to-use platform — all from the comfort of your home (inspired by wedmegood.com).
 
 
@@ -46,9 +46,9 @@ I'm always learning. Always building. And always open to:
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/aditya-raj-473999157/)  
+- 💼 [LinkedIn](www.linkedin.com/in/aditya99-dev)  
 - 📧 [Email](mailto:adityaraj6220@gmail.com) - adityaraj6220@gmail.com
-- 🌐 [Portfolio](https://adityaraj-dev.vercel.app) - adityaraj-dev.vercel.app
+- 🌐 [Portfolio](https://adityadesk.com) - adityadesk.com
 
 > *“Code is poetry. Let’s write something beautiful together.”*
 
