@@ -46,7 +46,7 @@ I'm always learning. Always building. And always open to:
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/aditya99-dev)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya99-dev/)  
 - 📧 [Email](mailto:adityaraj6220@gmail.com) - adityaraj6220@gmail.com
 - 🌐 [Portfolio](https://adityadesk.com) - adityadesk.com
 
